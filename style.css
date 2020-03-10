@@ -1,0 +1,9 @@
+.Box {
+  height: 256px;
+  width: 10%;
+  background-color: #f00;
+}
+
+.Box:hover {
+  background-color: #ff8383;
+}
