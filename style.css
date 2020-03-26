@@ -1,9 +1,9 @@
-.Box {
+.box {
   height: 256px;
   width: 10%;
   background-color: #ff0000;
 }
 
-.Box:hover {
+.box:hover {
   background-color: #ff8383;
 }
